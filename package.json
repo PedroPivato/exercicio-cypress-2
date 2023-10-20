@@ -8,7 +8,7 @@
     "cy:open": "npx cypress open",
     "cy:run": "npx cypress run",
     "cy:dashboard": "",
-    "cy:report": ""
+    "cy:report": "npx cypress run --record --key dfc345b7-4242-42ed-9d51-c735de57f7fe"
   },
   "repository": {
     "type": "git",
@@ -22,7 +22,8 @@
   },
   "homepage": "",
   "devDependencies": {
-    "cypress": "^9.7.0"
+    "@faker-js/faker": "^8.2.0",
+    "cypress": "^13.3.2"
   },
   "dependencies": {
     "faker": "^5.5.3"

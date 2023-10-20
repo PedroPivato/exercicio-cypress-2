@@ -1,0 +1,46 @@
+[
+    {
+        "nome": "Pedro",
+        "sobrenome": "Silva",
+        "empresa": "EBAC",
+        "país": "Brasil",
+        "endereco": "Rua Sul",
+        "numero": "234",
+        "cidade": "São Paulo",
+        "estado": "São Paulo",
+        "cep": "12345-678",
+        "telefone": "3238-3102",
+        "email": "ebac@teste.com",
+        "pagamento": "cheque"
+    },
+
+    {
+        "nome": "Marcos",
+        "sobrenome": "Silva",
+        "empresa": "EBAC",
+        "país": "Brasil",
+        "endereco": "Rua Sul",
+        "numero": "234",
+        "cidade": "São Paulo",
+        "estado": "São Paulo",
+        "cep": "12345-678",
+        "telefone": "3238-3102",
+        "email": "ebac@teste.com",
+        "pagamento": "cod"
+    },
+
+    {
+        "nome": "Rose",
+        "sobrenome": "Silva",
+        "empresa": "EBAC",
+        "país": "Brasil",
+        "endereco": "Rua Sul",
+        "numero": "234",
+        "cidade": "São Paulo",
+        "estado": "São Paulo",
+        "cep": "12345-678",
+        "telefone": "3238-3102",
+        "email": "ebac@teste.com",
+        "pagamento": "bacs"
+    }
+]
